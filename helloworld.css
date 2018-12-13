@@ -28,7 +28,7 @@ body{
   padding-top: 30px;
 }
 
-h1 {
+h1, h5 {
   color: #1d7f9a;
   font-family: 'Exo 2', sans-serif;
   font-weight: 'bold';
